@@ -1,6 +1,4 @@
-# Rishikpulhani
 
-**Blockchain dev @IIT Roorkee | Rust enthusiast | Exploring OS & Systems Programming | Aspiring Open Source Contributor**
 
 ---
 
