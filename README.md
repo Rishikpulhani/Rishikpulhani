@@ -33,18 +33,7 @@
 
 </p>
 
----
 
-## 🚀 Featured Projects
-
-- [**emb_trial**](https://github.com/Rishikpulhani/emb_trial) – A bare-metal operating system kernel written in Rust, built from scratch to explore low-level systems programming and hardware interaction.
-- [**EVM-from-scratch**](https://github.com/Rishikpulhani/evm-from-scratch) – Project implementing all 152 Ethereum Virtual Machine opcodes from scratch in Rust to deeply understand EVM internals.
-- [**Beskar**](https://github.com/Rishikpulhani/Beskar) – A mutation testing tool written in Rust to analyse any foundry codebase
-- [**Athena**](https://github.com/Rishikpulhani/Athena) – Starknet blockchain data decoder in Go.
-- [**Colosseum**](https://github.com/Rishikpulhani/Colosseum) – A blockchain platform for betting on AI agent battles with transparent gameplay and automated rewards.
-- [**Decentralised Netflix**](https://github.com/Rishikpulhani/decentralised-netflix) – A decentralized video streaming platform where users create, trade, and watch dynamic video NFTs via subscriptions or rentals..
-
----
 
 ## 📬 Connect With Me
 <p align="center">
