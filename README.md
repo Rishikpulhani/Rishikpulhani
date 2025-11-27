@@ -1,4 +1,13 @@
+## About me 👋
+I’m Rishik, a Web3 and Rust developer with a strong passion for low-level systems, blockchain protocols, and DeFi infrastructure. I enjoy working close to the metal—exploring operating system internals, understanding how networks function, and studying the underlying mechanics that power decentralized systems.
 
+Alongside engineering, I have a deep interest in business strategy, finance, and product marketing. I like understanding not just how technology works, but how it becomes a product, how it fits into markets, and how teams turn ideas into something people genuinely want. Writing helps me think through these intersections, and it’s one of my core passions.
+
+I also enjoy conversations and meeting people—learning about new domains, sharing perspectives, and discovering ideas outside my own bubble. Curiosity is a big part of who I am.
+
+Over the past few years, I’ve participated in several Web3 hackathons and have been fortunate to win a few of them. These events taught me rapid product thinking, cross-functional problem-solving, and how to ship under pressure.
+
+If you’re interested in Web3, Rust, systems, DeFi, business strategy, or product marketing—or if you just want to talk about technology, ideas, or anything new—I’m always happy to connect.
 
 ---
 
