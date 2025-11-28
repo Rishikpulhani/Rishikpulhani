@@ -5,7 +5,7 @@ Alongside engineering, I have a deep interest in business strategy, finance, and
 
 I also enjoy conversations and meeting people—learning about new domains, sharing perspectives, and discovering ideas outside my own bubble. Curiosity is a big part of who I am.
 
-Over the past few years, I’ve participated in several Web3 hackathons and have been fortunate to win a few of them ☺. These events taught me rapid product thinking, cross-functional problem-solving, and how to ship under pressure.
+Over the past few years, I’ve participated in several Web3 hackathons and have been fortunate to win a few of them. These events taught me rapid product thinking, cross-functional problem-solving, and how to ship under pressure.
 
 If you’re interested in Web3, Rust, systems, DeFi, business strategy, or product marketing—or if you just want to talk about technology, ideas, or anything new—I’m always happy to connect.
 
